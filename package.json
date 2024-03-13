@@ -6,6 +6,10 @@
   "bin": {
     "hola-mundo": "index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JavierGelatti/hola-npm"
+  },
   "scripts": {
     "test": "jest"
   },
