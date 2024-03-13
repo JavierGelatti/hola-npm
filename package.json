@@ -1,7 +1,7 @@
 {
   "name": "@javiergelatti/hola-mundo",
-  "version": "1.0.1",
-  "description": "",
+  "version": "1.0.2",
+  "description": "Saluda por consola a quien se presente.",
   "main": "index.js",
   "bin": {
     "hola-mundo": "index.js"
